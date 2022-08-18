@@ -32,4 +32,5 @@
     - Use class to reduce or merge duplicates in css.
 
 ## [Author](#author)
-- Github [Nipa Mehta](https://www.github.com/nipaanand)
+- Github   
+[Nipa Mehta](https://www.github.com/nipaanand)
